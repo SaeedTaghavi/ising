@@ -1,0 +1,6 @@
+size
+16
+mc_step
+100000
+temprature_start,temprature_stop,dtemprature
+0.5    5.0    .01

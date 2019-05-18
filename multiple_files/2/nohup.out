@@ -1,0 +1,1837 @@
+
+Program received signal SIGSEGV: Segmentation fault - invalid memory reference.
+
+Backtrace for this error:
+#0  0x7F5688CD4777
+#1  0x7F5688CD4D7E
+#2  0x7F5688625FEF
+#3  0x400E31 in left_
+#4  0x401B41 in deltae_
+#5  0x401D0B in metropolis_
+#6  0x401349 in MAIN__ at ising.f90:?
+
+Program received signal SIGSEGV: Segmentation fault - invalid memory reference.
+
+Backtrace for this error:
+#0  0x7FD9758AA777
+#1  0x7FD9758AAD7E
+#2  0x7FD9751FBFEF
+#3  0x400E31 in left_
+#4  0x401B41 in deltae_
+#5  0x401D0B in metropolis_
+#6  0x401349 in MAIN__ at ising.f90:?
+
+ start READING INPUT
+
+ size:          64
+ mc_steps:      200000
+ temprature_start,temprature_stop,dtemprature:  0.50000000000000000        5.0000000000000000        1.0000000000000000E-002
+ reading input FINISHED!
+
+ *******************
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
+ initializing with size:          64
+ initializing complete!
+
+
